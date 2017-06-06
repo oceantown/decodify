@@ -1,24 +1,32 @@
-# README
+---
+![](public/images/twitlitics.png)
+-
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# DECODIFY was created for people  to obtain free trending Twitter analytics in real time without an active account.
+ 
+## Objective:
 
-* Ruby version
+<i>TWITLITICS</i> is a free Twitter Analytics site built for people to find information related to relevant Twitter searches. They do not need an active Twitter account. Users will have the ability to sign up 'Favorite' trends they wish to follow on regular basis.
 
-* System dependencies
+## Development:
 
-* Configuration
+<i>TWITLITICS</i> is built with Node.JS on Express framework with HTML5 & CCS3.
 
-* Database creation
+The Twitter API was utilized for analytic results.
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## User stories:
+![] (public/images/user-stories.png)
 
-* Deployment instructions
 
-* ...
+## Wireframes:
+![](public/images/wireframes.png)
+
+
+## Dream features:
+- Advanced analytics settings
+- More User features
+
+Trello: https://trello.com/b/PNYmw6me/to-dos

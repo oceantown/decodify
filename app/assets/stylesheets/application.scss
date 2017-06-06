@@ -10,4 +10,62 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+ *= require 'masonry/basic'
+ *= require 'masonry/centered'
+ *= require 'masonry/fluid'
+ *= require 'masonry/gutters'
+ *= require 'masonry/infinitescroll'
+ *= require 'masonry/right-to-left'
+ *= require 'masonry/transitions'
  */
+
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+
+
+#bs-example-navbar-collapse-1 {
+  background: white;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.ul {
+  display: inline-block;
+  margin: auto;
+}
+
+a {
+  font-size: 24px;
+  color: #4ad2a8;
+}
+
+.form {
+  text-align: center;
+}
+
+.container-fluid {
+    background: white;
+  }
+
+.thumbnail {
+  border: 0;
+}
+
+.decodify {
+  list-style: none;
+  margin-top: 8px;
+}
+
+#bs-example-navbar-collapse-1 > ul > li:nth-child(1) > a {
+  font-size: 16px;
+}
+
+#bs-example-navbar-collapse-1 > ul > li:nth-child(2) > a {
+  font-size: 16px;
+}
+
+#bs-example-navbar-collapse-1 > ul > li:nth-child(3) > a {
+  font-size: 16px;
+}
