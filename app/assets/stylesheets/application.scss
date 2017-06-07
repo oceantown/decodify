@@ -142,6 +142,8 @@ body > div > div > p:nth-child(4) > img {
   background-color: #ededed;
   border-radius: 5px;
   margin-top: 30px;
+  color: black;
+  border: none;
 }
 
 #new_comment > p:nth-child(5) > input[type="submit"] {
@@ -167,4 +169,31 @@ img {
 .thumbnail:hover {opacity: 0.4;
 filter: alpha(opacity=40);
         -webkit-transition: opacity .5s linear;
+}
+
+.edit {
+  border-radius: 5px;
+  background: darkgrey;
+  border: none;
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+body > div > div > button:nth-child(6) > a {
+  color: white;
+}
+
+body > div > div > button:nth-child(5) > a {
+  color: white;
+}
+
+body > div > div > button:nth-child(6) > a:hover {
+  text-decoration: none;
+}
+
+body > div > div > button:nth-child(5) > a:hover {
+  text-decoration: none;
 }
