@@ -1,20 +1,17 @@
 ---
-![](public/images/twitlitics.png)
+![](public/images/decodify.png)
 -
 
 
-# DECODIFY was created for people  to obtain free trending Twitter analytics in real time without an active account.
+# DECODIFY was created for people learning to code who are visual learners.
  
 ## Objective:
 
-<i>TWITLITICS</i> is a free Twitter Analytics site built for people to find information related to relevant Twitter searches. They do not need an active Twitter account. Users will have the ability to sign up 'Favorite' trends they wish to follow on regular basis.
+<i>DECODIFY</i> is a community for people learning to code to find visual representations of complicated coding concepts. Users may 'Pin' images and descriptions that have helped them overcome a coding learning obstacle.
 
 ## Development:
 
-<i>TWITLITICS</i> is built with Node.JS on Express framework with HTML5 & CCS3.
-
-The Twitter API was utilized for analytic results.
-
+<i>DECODIFY</i> is built with Ruby & Rails + HTML5 & CCS3.
 
 
 ## User stories:
@@ -25,18 +22,10 @@ The Twitter API was utilized for analytic results.
 ![](public/images/wireframes.png)
 
 
+## Installation:
+
 ## Dream features:
 - Advanced analytics settings
 - More User features
 
-Trello: https://trello.com/b/PNYmw6me/to-dos
-
-
-An embedded screenshot of the app
-Explanations of the technologies used
-A couple paragraphs about the general approach you took
-Installation instructions for any dependencies
-Link to your user stories – who are your users, what do they want, and why?
-Link to your wireframes – sketches of major views / interfaces in your application
-OPTIONAL: Link to your pitch deck – documentation of your wireframes, user stories, and proposed architecture
-Descriptions of any unsolved problems or major hurdles you had to overcome
+Trello: https://trello.com/b/KImn7tnj/decodify
