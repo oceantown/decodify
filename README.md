@@ -1,5 +1,5 @@
 ---
-![](public/images/decodify.png)
+![](app/assets/images/decodify.png)
 -
 
 
@@ -15,7 +15,7 @@
 
 
 ## User stories:
-![] (public/images/user-stories.png)
+![] (app/assets/images/user-stories.png)
 
 
 ## Wireframes:
