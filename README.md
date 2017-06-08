@@ -15,7 +15,7 @@
 
 
 ## User stories:
-![] (app/assets/images/user-stories.png)
+![](app/assets/images/user-stories.png)
 
 
 ## Wireframes:
