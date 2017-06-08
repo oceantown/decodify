@@ -3,7 +3,7 @@
 -
 
 
-# DECODIFY was created for people learning to code who are visual learners.
+# DECODIFY was created for people learning to code who are are visual learners.
  
 ## Objective:
 
@@ -11,7 +11,7 @@
 
 ## Development:
 
-<i>DECODIFY</i> is built with Ruby & Rails + HTML5 & CCS3.
+<i>DECODIFY</i> is built with Ruby & Rails + HTML5, CCS3 & Bootstrap.
 
 
 ## User stories:
@@ -19,13 +19,13 @@
 
 
 ## Wireframes:
-![](public/images/wireframes.png)
+![](app/assets/images/wireframes.png)
+![](app/assets/images/wireframes-2.png)
 
-
-## Installation:
 
 ## Dream features:
-- Advanced analytics settings
-- More User features
+- Masonry layout
+- Modal for images
+- Trending topics
 
 Trello: https://trello.com/b/KImn7tnj/decodify
